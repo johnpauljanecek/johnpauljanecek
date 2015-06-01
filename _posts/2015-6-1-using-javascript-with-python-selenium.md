@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Injecting javascript into python selenium to increase scrapping speed
+title: Injecting javascript into python selenium to increase scraping speed
 ---
 
 When python selenium communicates with the webbrowser it sends its requests through a bridge. For locating a single element in a page and getting its data or clicking on it, this will not be much of a problem. But if you are scrapping a 100+ results from a page this can take a long delay. Sometimes upto several seconds.
@@ -57,5 +57,8 @@ return map(dict,results)
 
 The map function applies dict to each member to convert it into an array of dicts so the output is the same as the python function.
 
-For most of my web scrapping I use the firebug extension to help me. 
+For most of my web scrapping I use the firebug extension to assist me. Within firebug run the javascript code, and you can test it inside firebug.
+
+This is an introduction to running javascript code from selenium. The big advantage is speed, and that javascript was designed to manipulate DOM structures.
+
 
