@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: John Paul Janecek
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Using python and javascript for automating and mining the web
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/11262344
 
 #
 # Flags below are optional

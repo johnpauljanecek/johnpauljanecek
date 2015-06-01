@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I have experience with a variety of languages, closure, scheme and javascript. But when I want to get things done, I always seem to end up using python. Python has many warts on it, but it gets things done.
 
-### More Information
+### I am available for small projects or consultancy
 
-A place to include any other types of information that you'd like to include about yourself.
+I am interested in part time or small projects. Do you have a website you would like scrapped ? Contact me. If you would like to consult with me, drop me a line.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[johnpauljanecek@gmail.com](mailto:johnpauljanecek@gmail.com)
